@@ -2,7 +2,6 @@
 
 Vinneren av "Visuelt Slående" prisen i IN2000 Høst 2022
 
-## Important naming and stuff
 
 ### Shared preference variables
 
